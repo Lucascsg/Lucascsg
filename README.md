@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Lucas Casagrande Silva 👋</h1>
 
-<p align="center">
+<p>
 🎓 Estudante de Desenvolvimento de Software Multiplataforma (FATEC)<br>
 💻 Apaixonado por tecnologia e programação<br>
 🚀 Atualmente focado em Java, Spring Boot, PHP e desenvolvimento Web<br>

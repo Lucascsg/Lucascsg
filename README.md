@@ -1,40 +1,50 @@
-<h1 align="center">Olá, eu sou o Lucas Casagrande Silva 👋</h1>
+<h1 align="center">👋 Olá, eu sou o Lucas Casagrande Silva</h1>
 
-<p>
+<p align="center">
 🎓 Estudante de Desenvolvimento de Software Multiplataforma (FATEC)<br>
 💻 Apaixonado por tecnologia e programação<br>
-🚀 Atualmente focado em Java, Spring Boot, PHP e desenvolvimento Web<br>
-🎯 Buscando oportunidade de estágio para crescer na área de TI
+🚀 Focado em Java, Spring Boot, PHP e desenvolvimento Web<br>
+🎯 Em busca de oportunidades para iniciar minha carreira na área de TI
 </p>
 
 ---
 
-### 📬 Meus contatos
+### 📬 Meus Contatos
 
-[![Gmail](https://img.shields.io/badge/Gmail-lucas.csg11@gmail.com-red?style=flat&logo=gmail)](mailto:lucas.csg11@gmail.com)
+<p>
+  <a href="mailto:lucas.csg11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lucas.csg11@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
-### 🧠 Tecnologias & Habilidades
+### 🧠 Tecnologias e Habilidades
 
-![HTML](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000?logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-000?logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-000?logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-000?logo=eclipseide&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-000?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+</p>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucascsg&show_icons=true&theme=default)
-![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascsg&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucascsg&show_icons=true&theme=default&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascsg&layout=compact&theme=default&hide_border=true" width="47%" />
+</p>
 
 ---
 
-📢 Estou aberto a networking, trocas de conhecimento e oportunidades em Tecnologia.
+<p align="center">
+  💡 Estou aberto a networking, trocas de conhecimento e oportunidades em Tecnologia.
+</p>

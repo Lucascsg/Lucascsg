@@ -1,12 +1,14 @@
-<h1 align="center">📌 Sobre Mim</h1>
+<h1 align="center">📌 Sobre Mim </h1>
 
-<p align="center">
+---
+
+<p> <strong>
 🙋‍♂️ Lucas Casagrande Silva • 🗓️ 11/11/2005 <br>
 🎓 Estudante de Desenvolvimento de Software Multiplataforma (FATEC) <br>
-💡 Apaixonado por tecnologia e programação <br>
+💡  Apaixonado por tecnologia e programação <br>
 💻 Focado em Java, Spring Boot, PHP e desenvolvimento Web <br>
 🚀 Em busca de oportunidades para iniciar minha carreira na área de TI
-</p>
+</p> </strong>
 
 ---
 
@@ -46,6 +48,6 @@
 
 ---
 
-<p align="center">
+<p align="center"> <strong>
   💡 Estou aberto a networking, trocas de conhecimento e oportunidades em Tecnologia.
-</p>
+</p> </strong>
